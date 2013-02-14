@@ -1,0 +1,4 @@
+myFirstGitProject
+=================
+
+test for GIT
